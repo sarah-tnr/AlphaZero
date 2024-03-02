@@ -1,7 +1,7 @@
 import numpy as np
 import pytest
 
-from .KulamiLogic import Board
+from KulamiLogic import Board
 
 # Test fixture
 @pytest.fixture
